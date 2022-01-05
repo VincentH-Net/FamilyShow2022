@@ -34,6 +34,7 @@
 	</ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\CSharpForMarkup\src\CSharpMarkup.Wpf\CSharpMarkup.Wpf.csproj" />
     <ProjectReference Include="..\Microsoft.FamilyShowLib\Microsoft.FamilyShowLib.csproj" />
   </ItemGroup>
 
